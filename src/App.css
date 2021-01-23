@@ -1,0 +1,23 @@
+*{
+    font-family: sans-serif;
+    font-size: large;
+    color: white;
+    background-color: black;
+}
+input{
+    background-color: white;
+    color: black;
+    outline: none;
+    border: solid;
+}
+table, th, td{
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+td{
+    vertical-align: top;
+    width: 50%;
+}
+image{
+    max-width: 100%;
+}
